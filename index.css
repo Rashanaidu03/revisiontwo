@@ -5,3 +5,8 @@ h1 {
 h3 {
     border: 2px solid red;
 }
+
+
+h6 {
+    color: green;
+}
